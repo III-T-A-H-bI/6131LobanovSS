@@ -23,22 +23,6 @@
 #├── laba.sh                    # Полный автоматизированный скрипт сборки, запуска всех тестов и визуализации
 #└── README.md                  # Данный файл
 #```
-
-## Требования к системе
-
-- **ОС:** Linux (Ubuntu 20.04/22.04 рекомендована)
-- **GPU:** NVIDIA с поддержкой CUDA (Compute Capability 7.0+)
-- **CUDA Toolkit:** версия 11.x или 12.x (проверено на 12.8)
-- **Компилятор:** g++ (поддерживает C++11)
-- **Python:** 3.8+ с пакетами: `numpy`, `matplotlib`, `seaborn`, `pandas`
-- **Утилиты:** `nvidia-smi`, `nvcc`, `make` (не обязателен)
-
-## Сборка и запуск
-
-### 1. Клонирование репозитория
-```bash
-git clone https://github.com/ваш_логин/labs-cuda-substring-search.git
-cd labs-cuda-substring-search
 ```
 
 ### 2. Запуск полного тестирования (рекомендовано)
