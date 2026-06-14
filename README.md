@@ -27,11 +27,11 @@
 - 📈 **Детальная статистика**: Вывод различий между CPU и GPU результатами
 
 ## ✨ Results
-- [test_input.bmp](test_input.bmp)
+- [test_input.bmp](6131LobanovSS/bilateral/test_input.bmp)
 
-- [result_gpu.bmp](result_gpu.bmp)
+- [result_gpu.bmp](6131LobanovSS/bilateral/result_gpu.bmp)
 
-- [result_cpu.bmp](result_cpu.bmp)
+- [result_cpu.bmp](6131LobanovSS/bilateral/result_cpu.bmp)
 # =================================================================================================================================
 
 # 🔍 Mass Search
@@ -58,10 +58,10 @@
 ## 📈 Визуализации
 
 ### Статистика поиска
-![Statistics](statistics.png)
+![Statistics](6131LobanovSS/mass_search/statistics.png)
 
 ### Диаграмма связей
-![Chord](chord.png)
+![Chord](6131LobanovSS/mass_search/chord.png)
 
 ### Производительность
-![Performance](performance_graph.png)
+![Performance](6131LobanovSS/mass_search/performance_graph.png)
