@@ -60,7 +60,7 @@ python3 generate_test.py
 
 ### 2. Компиляция программы
 
-Убедитесь, что архитектура вашей GPU указана правильно (в примере `sm_89` для RTX 4090). Проверить архитектуру можно командой `nvidia-smi --query-gpu=compute_cap --format=csv`.
+Убедитесь, что архитектура вашей GPU указана правильно (в примере `sm_89` для RTX 4060). Проверить архитектуру можно командой `nvidia-smi --query-gpu=compute_cap --format=csv`.
 
 ```bash
 nvcc -O3 -arch=sm_89 bilaterial.cu -o bilaterial
