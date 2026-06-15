@@ -22,13 +22,13 @@
 ## 📈 Визуализации
 
 ### Статистика поиска
-![Statistics](6131LobanovSS/mass_search/statistics.png)
+![Statistics](6131LobanovSS/statistics.png)
 
 ### Диаграмма связей
-![Chord](6131LobanovSS/mass_search/chord.png)
+![Chord](6131LobanovSS/chord.png)
 
 ### Производительность
-![Performance](6131LobanovSS/mass_search/performance_graph.png)
+![Performance](6131LobanovSS/performance_graph.png)
 
 ## Структура репозитория
 
