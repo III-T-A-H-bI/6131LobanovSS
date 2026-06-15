@@ -26,7 +26,6 @@
 
 ### Диаграмма связей
 ![Chord](6131LobanovSS/chord.png)
-
 ### Производительность
 ![Performance](6131LobanovSS/performance_graph.png)
 
