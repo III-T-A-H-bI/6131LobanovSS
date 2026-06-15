@@ -23,11 +23,11 @@
 - 📈 **Детальная статистика**: Вывод различий между CPU и GPU результатами
 
 ## ✨ Results
-- [test_input.bmp](bilateral/test_input.bmp)
+- [test_input.bmp](6131LobanovSS/bilateral/test_input.bmp)
 
-- [result_gpu.bmp](bilateral/result_gpu.bmp)
+- [result_gpu.bmp](6131LobanovSS/bilateral/result_gpu.bmp)
 
-- [result_cpu.bmp](bilateral/result_cpu.bmp)
+- [result_cpu.bmp](6131LobanovSS/bilateral/result_cpu.bmp)
 # 
 
 **Основные возможности:**
